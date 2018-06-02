@@ -1,0 +1,155 @@
+---
+update_time: '2017.10.11'
+name: 杨旭良
+nickname: 
+meta_content: 大三前端狗，HR姐姐们把我招到碗里去吧
+keywords: 前端,工作,简历
+ga_id: 'UA-92595311-1'
+age: 22岁
+gender: 男
+school: 中北大学
+profession: 软件工程
+grade: 大四
+english_level: CET-4
+blog: 
+github: https://www.github.com/Ericyxl
+website: 
+online: https://Ericyxl.github.io/Resume/
+print: https://Ericyxl.github.io/Resume/print.html
+apply_to_position: Web前端工程师
+description: !!md |
+  我叫杨旭良，中北大学软件学院大四学生，喜欢前端开发。熟悉web前端，后端Node.js， 也略知一二。能折腾，喜欢在实践中学习，喜欢专研。希望在工作中能应用到自己所学的东西，跟产品一同成长。
+contact: # 联系方式
+  -
+    icon: fa-envelope
+    name: Email
+    value: 544751006@qq.com
+  -
+    icon: fa-qq
+    name: QQ
+    value: '544751006'
+  -
+    icon: fa-phone-square
+    name: PhoneNumber
+    value: '18636162264'
+honor: # 奖项荣誉
+tech: # 技能点
+  -
+    name: HTML/CSS
+    percentage: 80%
+  -
+    name: JavaScript
+    percentage: 70%
+  
+  -
+    name: Git
+    percentage: 60%
+  -
+    name: Node.js
+    percentage: 70%
+experience: # 项目经验
+  -
+    section: 个人项目
+    project:
+      -
+        name: 小米商城
+        date: 2017.6
+        img:
+        website:
+        source_code: https://github.com/xiao555/nunjucks-extend-loader
+        des: !!md |
+         对小米商城进行了静态页面的转化，用css样式表和html语言。在这次的实践中出现了布局标签没起到作用，通过修改css优先级，以及css中position，得到解决
+      -
+        name: 京东商城
+        date: 2017.9
+        img:
+        website:
+        source_code: https://github.com/xiao555/Resume-it
+        des: !!md |
+          在使用html和css样式表对网页进行布局，并且在使用过程中加入了jquery，nodejs的内容，仿照京东商城，可以进行登录，注册，上传头像，实现了一个简单版的用户交互。在这次的数据的处理中，把数据转变成json格式，以及在上传头像过程中使用了cookie-parse模块通过cookie判断谁在登录。使用ajax实现数据的传输
+     
+  -
+    section: 平常小练习
+    exper:
+      - 
+        company: 
+        time: 2014.9.1 - 2018.9.1
+        desc: !!md |
+          
+        project:
+          -
+            des: !!md |
+              在不引用jquery的基础上，做一个封装类似于jquery的代码插件，在代码层面也做了优化，重复运行的代码抽离出来等等。
+          -
+            des: !!md |
+              在练习轮播图的时候，把旧的代码封装成内部组件，并且可以绑定多个实例，实现代码的复用。
+          -
+            des: !!md |
+              在解决bug的过程中，也积累了不少经验，比如有ie下的background：rgba兼容性问题，通过google用filter解决的。
+          -
+            des: !!md |
+              在开发的过程中，我会思考怎么实现是最好的，前端也教会了我认真做好每一个细节。
+      - 
+        company: 
+        time: 2016.7 - 2017.5
+        desc: 
+        project:
+          -
+            name: 
+            date: ''
+            img: 
+            website: 
+            source_code:
+            des: !!md |
+             
+          -
+            name: 
+            date: ''
+            img: 
+            website: 
+            source_code:
+            des: !!md |
+              
+          -
+            name: 
+            date: ''
+            img:
+            website: 
+            source_code:
+            des: !!md |
+              
+          -
+            name: 
+            date: ''
+            img: 
+            website: 
+            source_code:
+            des: !!md |
+          
+          # -
+          #   name: innerdoor
+          #   date: 2016.11 - 至今
+          #   img: https://xiao555.netlify.com/innerdoor.jpg
+          #   website: http://innerdoor.vwmdev.com/
+          #   source_code:
+          #   des: !!md |
+          #     这个项目相当于一个会员系统，数据都是通过API来获取的，有大量的表格，需要从API获取大量的数据，处理数据，渲染到前端页面上。
+          #     一开始我写了一堆if-else，数据跟表单一一对应，后来发现这样做代码量很大，而且不够灵活。后来重新安排数据结构，用label作为key值，前端表单label作为value值，通过模板引擎跟后端对应起来，这样既大大减少了代码量，也提高了灵活性。
+skill: # 技能清单
+      -
+        des: !!md |
+          能够用 HTML + CSS 编写语义化的代码，完成较复杂的布局，熟悉Stylus、PostCss 等css预处理、后处理工具
+      -
+        des: !!md |
+          熟悉JS和jquery语言，并且会使用svn进行项目管理。
+      -
+        des: !!md |
+          熟悉 Git Hbuilder VScode 等开发工具
+      -
+        des: !!md |
+          熟悉nodejs，XHR，ajax等语言。
+      -
+        des: !!md |
+          掌握并熟练运用office等办公软件，能够在较短的时间内，利用excel做出一个符合要求的表格。
+
+---
